@@ -37,7 +37,7 @@ It's a very interesting and important challenge to achieve.
 - Carolina
 - Pablo
 - Armando
-- Samuel
+- [@samuelv8](https://github.com/samuelv8)
 - Alfredo
 - Jenny
 
