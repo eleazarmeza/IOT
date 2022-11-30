@@ -28,18 +28,40 @@ circumstances. After a calamity, most people demonstrate resilience. Resilience 
 and persevere under difficult circumstances. Fortunately, resilience in catastrophe recovery is commonplace rather 
 than exceptional, and people frequently show this ability. supportive tools. But with the technology as a resource that allows for damage assessment, real-time information gathering and rapid response, as well as mapping affected areas and analyzing them to see what kind of assistance victims need we could better manage catastrophes.
 
-Specifically about floods.
 
-Many people around the world live in zones that are more prone to floodings than others, we have taken the challenge 
-to help all those people around the world that in case of emergency they may need to communicate, 
-and we are aiming to create a system based on a network mounted in drones, to help people connect to send messages through 
-that network in order to let people contact emergency services an to let them know where they are and what they need. 
+An example that the Mexican students can identify with is the earthquake in September 19 of 2017, in which the signal 
+was down and nobody was able communicate or send messages if they were in an emergency or safe. Even our school 
+collapse, nowadays we have a new campus after 5 years but the fear and the psychological damage that this caused and 
+other recent earthquakes can make many people can collapse and shock. This made all the students at that time that earthquakes are not a game, because some of them had to take out people from the collapsed buildings. In the old tes de buildings were connected by a bridge and also all the bridges collapsed and buildings were very damaged.
+
+![App Screenshot](https://www.elsoldemexico.com.mx/incoming/i2gjau-collage_tec_unam.jpg/ALTERNATES/LANDSCAPE_1140/collage_tec_unam.jpg)
+
+Other example that touches everyone was the case of a school called Enrique Rebsamen was a school of kids that also collapse in the earthquake already said , this school was full of kids and with irregularities in their structure and official documents. Many kids die and not all the kids could be taken out, nowadays this building continues collapse and the owner of the school is fugitive. 
+
+![App Screenshot](https://c1.staticflickr.com/5/4335/37160567052_d03a87e786_b.jpg)
+
+Another example in which Brazilians students can identify are the floodings that are very dangerous but normally regular. It’s normal the feeling that in one second all your things and life can disappear or change. In Brazil, the flooding leaves damage and takes a lot of lives and communication can change a lot of things because the people can advise the next towns the situation that is going to happen in seconds. 
+
+![App Screenshot](https://static.dw.com/image/60275520_303.jpg)
+
+Introdrucing Specifically about floods, many people around the world live in zones that are more prone to floodings than
+others, we have taken the challenge to help all those people around the world that in case of emergency they may need to
+communicate, and we are aiming to create a system based on a network mounted in drones, to help people connect to send 
+messages through that network in order to let people contact emergency services an to let them know where they are and
+what they need.
+
+![App Screenshot](https://images.unsplash.com/photo-1547683905-f686c993aae5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvb2RzfGVufDB8fDB8fA%3D%3D&w=1000&q=80)
+
+After we see and live this kind of catastrophes, we are in a position of changing and create something that can help to 
+avoid some hard situations.It's a very interesting and important challenge to achieve.
+
+
+
 
 ![Photo](https://github.com/Armando-Mandujano/Imagenes/blob/main/iot.jpg)
 
 ![Photo](https://github.com/Armando-Mandujano/Imagenes/blob/main/Dron.jpg)
 
-It's a very interesting and important challenge to achieve.
 
 # Deliverables
 
