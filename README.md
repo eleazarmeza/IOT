@@ -36,7 +36,7 @@ other recent earthquakes can make many people can collapse and shock. This made 
 
 ![App Screenshot](https://www.elsoldemexico.com.mx/incoming/i2gjau-collage_tec_unam.jpg/ALTERNATES/LANDSCAPE_1140/collage_tec_unam.jpg)
 
-Other example that touches everyone was the case of a school called Enrique Rebsamen was a school of kids that also collapse in the earthquake already said , this school was full of kids and with irregularities in their structure and official documents. Many kids die and not all the kids could be taken out, nowadays this building continues collapse and the owner of the school is fugitive. 
+Other example that touches everyone was the case of a school called Enrique Rebsamen, this was a school of kids that also collapse in the earthquake already said , this school was full of kids and with irregularities in their structure and official documents. Many kids die and not all the kids could be taken out, nowadays this building continues collapse and the owner of the school is fugitive. 
 
 ![App Screenshot](https://c1.staticflickr.com/5/4335/37160567052_d03a87e786_b.jpg)
 
