@@ -1,16 +1,17 @@
 
-# IOT Equipo Pótamo 🚀
-## App and Network deployment to allow messaging in crisis :fire:
+<h1 align="center"> 🚀 IOT Equipo Pótamo 🚀 </h1>
+
+## :fire: *App and Network deployment to allow messaging in crisis* :fire:
 
 Project about the deployment of a group of drones in which they connect to form a wifi Network that helps people connect with their Android devices and lets them send messages to ask for help or let emergency services about their situation.
 The project is based in the MQTT (Mosquitto protocol) which allows an intermitent connection, which is helful during crisis where commercial or usual networks tend to be offline.
 
-## Flooding crisis :rotating_light:
+## :rotating_light: *Flooding crisis* :rotating_light:
 
 ![App Screenshot](https://images.unsplash.com/photo-1547683905-f686c993aae5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvb2RzfGVufDB8fDB8fA%3D%3D&w=1000&q=80)
 
 
-## Motivation :globe_with_meridians:
+## :globe_with_meridians: *Motivation* :globe_with_meridians:
 
  
 Disasters and catastrophes wreak havoc on people, communities, and entire cultures around the world every year. 
@@ -44,7 +45,11 @@ Another example in which Brazilians students can identify are the floodings that
 
 ![App Screenshot](https://static.dw.com/image/60275520_303.jpg)
 
-
+Introdrucing Specifically about floods, many people around the world live in zones that are more prone to floodings than
+others, we have taken the challenge to help all those people around the world that in case of emergency they may need to
+communicate, and we are aiming to create a system based on a network mounted in drones, to help people connect to send 
+messages through that network in order to let people contact emergency services an to let them know where they are and
+what they need.
 
 ![App Screenshot](https://images.unsplash.com/photo-1547683905-f686c993aae5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvb2RzfGVufDB8fDB8fA%3D%3D&w=1000&q=80)
 
@@ -59,7 +64,7 @@ avoid some hard situations.It's a very interesting and important challenge to ac
 ![Photo](https://github.com/Armando-Mandujano/Imagenes/blob/main/Dron.jpg)
 
 
-# Deliverables
+# 📋 *Deliverables* 📋
 
 - Step 1 Project Setup
 
@@ -84,18 +89,7 @@ For this step we had to implement the broker in the cloud which received the mes
 
 Here is the link for the Step 3: https://youtu.be/vPZWJWIKPw4
 
-
-# The project
-
-The project's goal is to create a system based on a network mounted in drones, to help people connect to send 
-messages through that network in order to let people contact emergency services an to let them know where they are and
-what they need.
-
-
-![Photo](https://github.com/Armando-Mandujano/Imagenes/blob/main/Project.jpg)
-
-
-## Authors
+## ✒️ *Authors* ✒️
 
 - [@eleazarmeza](https://eleazarmeza.github.io/portfolioT/)
 - Carolina
@@ -104,11 +98,11 @@ what they need.
 - [@samuelv8](https://github.com/samuelv8)
 - Alfredo
 - Jenny
+- Mariana
 
 
 
-
-## Used By
+## 📌 *Used By* 📌
 
 This project is used by the following Universities:
 
@@ -120,19 +114,22 @@ This project is used by the following Universities:
 
 ![Logo](https://upload.wikimedia.org/wikipedia/en/9/97/Instituto_Tecnológico_de_Aeronáutica_%28logo%29.png)
 
-## Lessons Learned
+## 📖 *Lessons Learned* 📖
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 
 
-## 🛠 Skills
+## 🛠 *Skills* 🛠
 Python, Azure, Java
 
 
-## Features
+## 📄 *Features* 📄
 
 - Android APP
 - Python code
 - Azure Virtual Machine
 
+## ✒️ *Authors* ✒️ 2.0
 
+| [<img src="https://avatars.githubusercontent.com/u/119339269?v=4" width=115><br><sub>Armando</sub>](https://github.com/Armando-Mandujano) |  [<img src="https://avatars.githubusercontent.com/u/88909748?v=4" width=115><br><sub>Cristobal</sub>](https://github.com/eleazarmeza) |  [<img src="https://avatars.githubusercontent.com/u/78169455?v=4" width=115><br><sub>Jenny</sub>](https://github.com/Jennyavenda) |  [<img src="https://avatars.githubusercontent.com/u/105233585?v=4" width=115><br><sub>Mariana</sub>](https://github.com/Marern3)  |  [<img src="https://avatars.githubusercontent.com/u/78799492?v=4" width=115><br><sub>Samuel</sub>](https://github.com/samuelv8)
+| :---: | :---: | :---: | :---: | :---: |
