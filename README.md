@@ -1,16 +1,16 @@
 
-# IOT Equipo Pótamo 🚀
-## App and Network deployment to allow messaging in crisis :fire:
+# 🚀 IOT Equipo Pótamo 🚀
+## :fire: App and Network deployment to allow messaging in crisis :fire:
 
 Project about the deployment of a group of drones in which they connect to form a wifi Network that helps people connect with their Android devices and lets them send messages to ask for help or let emergency services about their situation.
 The project is based in the MQTT (Mosquitto protocol) which allows an intermitent connection, which is helful during crisis where commercial or usual networks tend to be offline.
 
-## Flooding crisis :rotating_light:
+## :rotating_light: Flooding crisis :rotating_light:
 
 ![App Screenshot](https://images.unsplash.com/photo-1547683905-f686c993aae5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvb2RzfGVufDB8fDB8fA%3D%3D&w=1000&q=80)
 
 
-## Motivation :globe_with_meridians:
+## :globe_with_meridians: Motivation :globe_with_meridians:
 
  
 Disasters and catastrophes wreak havoc on people, communities, and entire cultures around the world every year. 
@@ -63,7 +63,7 @@ avoid some hard situations.It's a very interesting and important challenge to ac
 ![Photo](https://github.com/Armando-Mandujano/Imagenes/blob/main/Dron.jpg)
 
 
-# Deliverables
+# 📋 Deliverables 📋
 
 - Step 1 Project Setup
 
@@ -88,7 +88,7 @@ For this step we had to implement the broker in the cloud which received the mes
 
 Here is the link for the Step 3: https://youtu.be/vPZWJWIKPw4
 
-## Authors
+## ✒️ Authors ✒️
 
 - [@eleazarmeza](https://eleazarmeza.github.io/portfolioT/)
 - Carolina
@@ -97,11 +97,11 @@ Here is the link for the Step 3: https://youtu.be/vPZWJWIKPw4
 - [@samuelv8](https://github.com/samuelv8)
 - Alfredo
 - Jenny
+- Mariana
 
 
 
-
-## Used By
+## 📌 Used By 📌
 
 This project is used by the following Universities:
 
@@ -113,16 +113,16 @@ This project is used by the following Universities:
 
 ![Logo](https://upload.wikimedia.org/wikipedia/en/9/97/Instituto_Tecnológico_de_Aeronáutica_%28logo%29.png)
 
-## Lessons Learned
+## 📖 Lessons Learned 📖
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 
 
-## 🛠 Skills
+## 🛠 Skills 🛠
 Python, Azure, Java
 
 
-## Features
+## 📄 Features 📄
 
 - Android APP
 - Python code
