@@ -92,8 +92,8 @@ Here is the link for the Step 3: https://youtu.be/vPZWJWIKPw4
 ## ✒️ *Authors* ✒️
 
 - [@eleazarmeza](https://eleazarmeza.github.io/portfolioT/)
-- Carolina
-- Pablo
+- [@CaroGlez15](https://github.com/CaroGlez15)
+- Pablo [@Anarbol](https://github.com/Anarbol) 
 - Armando
 - [@samuelv8](https://github.com/samuelv8)
 - Alfredo
