@@ -3,7 +3,7 @@
 
 ## :fire: *App and Network deployment to allow messaging in crisis* :fire:
 
-Projec about the deployment of a group of drones in which they connect to form a wifi Network that helps people connect with their Android devices and lets them send messages to ask for help or let emergency services about their situation.
+Project about the deployment of a group of drones in which they connect to form a wifi Network that helps people connect with their Android devices and lets them send messages to ask for help or let emergency services about their situation.
 The project is based in the MQTT (Mosquitto protocol) which allows an intermitent connection, which is helful during crisis where commercial or usual networks tend to be offline.
 
 ## :rotating_light: *Flooding crisis* :rotating_light:
