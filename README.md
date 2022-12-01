@@ -131,9 +131,9 @@ Python, Azure, Java
 
 ## ✒️ *Authors* ✒️ 2.0
 
-| [<img src="https://avatars.githubusercontent.com/u/119339269?v=4" width=115><br><sub>Armando</sub>](https://github.com/Armando-Mandujano) |  [<img src="https://avatars.githubusercontent.com/u/88909748?v=4" width=115><br><sub>Cristobal</sub>](https://github.com/eleazarmeza) |  [<img src="https://avatars.githubusercontent.com/u/78169455?v=4" width=115><br><sub>Jenny</sub>](https://github.com/Jennyavenda) |   [<img src="https://avatars.githubusercontent.com/u/105233585?v=4" width=115><br><sub>Mariana</sub>](https://github.com/Marern3)  |   [<img src="https://avatars.githubusercontent.com/u/78799492?v=4" width=115><br><sub>Samuel</sub>](https://github.com/samuelv8) |   [<img src="https://avatars.githubusercontent.com/u/102176290?v=4" width=115><br><sub>Pablo</sub>](https://github.com/Anarbol)
-
+| [<img src="https://avatars.githubusercontent.com/u/119339269?v=4" width=115><br><sub>Armando</sub>](https://github.com/Armando-Mandujano) |  [<img src="https://avatars.githubusercontent.com/u/88909748?v=4" width=115><br><sub>Cristobal</sub>](https://github.com/eleazarmeza) |  [<img src="https://avatars.githubusercontent.com/u/78169455?v=4" width=115><br><sub>Jenny</sub>](https://github.com/Jennyavenda) |   [<img src="https://avatars.githubusercontent.com/u/105233585?v=4" width=115><br><sub>Mariana</sub>](https://github.com/Marern3)  |   [<img src="https://avatars.githubusercontent.com/u/78799492?v=4" width=115><br><sub>Samuel</sub>](https://github.com/samuelv8) 
+| [<img src="https://avatars.githubusercontent.com/u/102176290?v=4" width=115><br><sub>Pablo</sub>](https://github.com/Anarbol) |   [<img src="https://avatars.githubusercontent.com/u/102176621?v=4" width=115><br><sub>Carolina</sub>](https://github.com/CaroGlez1)
 | :---: | :---: | :---: | :---: | :---: |
 
 
-  |   [<img src="https://avatars.githubusercontent.com/u/102176290?v=4" width=115><br><sub>Pablo</sub>](https://github.com/Anarbol)   |   [<img src="https://avatars.githubusercontent.com/u/102176621?v=4" width=115><br><sub>Carolina</sub>](https://github.com/CaroGlez1)
+     
