@@ -142,6 +142,11 @@ Now, we go to mqsql and:
 create database events;
 
 
+We create a superUser:
+
+
+
+
 
 
 Grafana-Server. For the dashboard
@@ -199,6 +204,8 @@ node subscriber.js
 And we can check on mysql how it gets new coordinates.
 
 Finally we can start grafana dashboard to see coordinates.
+
+
 
 
 
