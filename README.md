@@ -97,77 +97,77 @@ Here is the link for the Step 3: https://youtu.be/vPZWJWIKPw4
 
 
 # 📋 *Basic Configuration* 📋
-
+#
 A virtual Machine in Linux is essential, for this purpose we used Azure.
-
+#
 You may want to use it, for that it is required to open the next ports:
-
-
+#
+#
 HTTP : 80 (for websockets)
 MQTT: 1883 to 1886 (for tests)
-
-
+#
+#
 On our machine (Mac for example) we need to install:
-
+#
 Termius. This will handle all terminal connections needed.
-
-
+#
+#
 
 It is required to install all the software below on the virtual Machine:
-
+#
 sudo apt update (to update ubuntu)
-
+#
 sudo apt upgrade (to upgrade ubuntu)
-
-
+#
+#
 MQTT. Since it's the protocol used
-
-
-
+#
+#
+#
 Mysql. It's where the database will be stored and. handled
-
+#
 sudo apt install mysql-server
-
+#
 mysql -p   (to login with password)
 sudo mysql -uroot   (to login as root)
-
-
+#
+#
 We need to clone the database or create it from the ground.
-
+#
 clone it with:
 git clone http://github.com/luisglz/eventsDB.git
-
+#
 Now, we go to mqsql and:
-
+#
 create database events;
-
+#
 
 We create a superUser:
 
 
 
-
-
+#
+#
 
 Grafana-Server. For the dashboard
-
+#
 sudo apt-get install -y adduser libfontconfig1
 wget https://dl.grafana.com/enterprise/release/grafana-enterprise_9.3.1_amd64.deb
 sudo dpkg -i grafana-enterprise_9.3.1_amd64.deb
 
 
-
-
-
+#
+#
+#
 Nginx. To redirect from port 80 to the host on port 3000, basically we do it for Grafana.
 sudo apt install nginx
-
+#
 in nginx we need to configure: sites-available by adding to it a new doc:
 sudo touch grafana
-
+#
 nano grafana
 where we add:
-
+#
 server{
  listen 80;
  listen (::]:80;
@@ -178,51 +178,47 @@ server{
  proxy_set_header X-Forwarded-For $remote_addr;
  }
 }
-
-
+#
+#
 then we create a link
 sudo ln -s /etc/nginx/sites-available/grafana /etc/nginx/sites-enabled/
-
+#
 so we delete default in sites-enabled:
 sudo rm default
-
+#
 we restart the server with:
 sudo systemctl restart nginx
-
-
+#
+#
 For grafana, we need to create a
-
-
-
-
+#
+#
+#
+#
 Once everything is running we can start the software:
-
+#
 node broker.js
 node publisher.js
 node subscriber.js
-
+#
 And we can check on mysql how it gets new coordinates.
-
+#
 Finally we can start grafana dashboard to see coordinates.
-
-
-
-
-
-
-
+#
+#
+#
 We might aid ourselves by running:
-
+#
 sudo systemctl status mqsql
 To know if software is active
-
-
+#
+#
 sudo systemctl start grafana-server
 To start any program that might be inactive
-
-
-
-
+#
+#
+#
+#
 ## 📌 *Used By* 📌
 
 This project is used by the following Universities:
