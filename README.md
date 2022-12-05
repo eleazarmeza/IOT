@@ -122,6 +122,34 @@ sudo apt upgrade (to upgrade ubuntu)
 #
 MQTT. Since it's the protocol used
 #
+sudo apt-get install mosquitto
+#
+sudo apt-get install mosquitto-clients
+#
+sudo apt clean
+#
+#
+Then we configure mosquitto
+#
+#
+cd /etc/mosquitto
+cp mosquitto.conf mosquitto.conf.orig
+#
+nano mosquitto.conf
+#
+The file should look like this to allow anonymous connections:
+#
+#
+allow_anonymous true
+pid_file /var/run/mosquitto.pid
+persistence true
+persistence_location /var/lib/mosquitto/ log_dest file /var/log/mosquitto/mosquitto.log log_dest stdout
+include_dir /etc/mosquitto/conf.d
+#
+#
+Then we can run it
+#
+mosquitto -c mosquitto.conf -v
 #
 #
 Mysql. It's where the database will be stored and. handled
