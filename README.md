@@ -104,6 +104,7 @@ You may want to use it, for that it is required to open the next ports:
 #
 #
 HTTP : 80 (for websockets)
+#
 MQTT: 1883 to 1886 (for tests)
 #
 #
@@ -133,6 +134,7 @@ Then we configure mosquitto
 #
 #
 cd /etc/mosquitto
+#
 cp mosquitto.conf mosquitto.conf.orig
 #
 nano mosquitto.conf
@@ -161,12 +163,14 @@ Mysql. It's where the database will be stored and. handled
 sudo apt install mysql-server
 #
 mysql -p   (to login with password)
+#
 sudo mysql -uroot   (to login as root)
 #
 #
 We need to clone the database or create it from the ground.
 #
 clone it with:
+#
 git clone http://github.com/luisglz/eventsDB.git
 #
 Now, we go to mqsql and:
@@ -184,7 +188,9 @@ We create a superUser:
 Grafana-Server. For the dashboard
 #
 sudo apt-get install -y adduser libfontconfig1
+#
 wget https://dl.grafana.com/enterprise/release/grafana-enterprise_9.3.1_amd64.deb
+#
 sudo dpkg -i grafana-enterprise_9.3.1_amd64.deb
 
 
@@ -192,12 +198,15 @@ sudo dpkg -i grafana-enterprise_9.3.1_amd64.deb
 #
 #
 Nginx. To redirect from port 80 to the host on port 3000, basically we do it for Grafana.
+#
 sudo apt install nginx
 #
 in nginx we need to configure: sites-available by adding to it a new doc:
+#
 sudo touch grafana
 #
 nano grafana
+#
 where we add:
 #
 server{
