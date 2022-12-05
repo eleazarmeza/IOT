@@ -190,9 +190,8 @@ we restart the server with:
 sudo systemctl restart nginx
 #
 #
-For grafana, we need to create a
-#
-#
+For grafana, we need to create a dashboard
+
 #
 #
 Once everything is running we can start the software:
