@@ -210,18 +210,26 @@ nano grafana
 where we add:
 #
 server{
+#
  listen 80;
+ #
  listen (::]:80;
-
+#
  location / {
+ #
  proxy_pass http://localhost:3000/;
+ #
  proxy_set_header Host $host;
+ #
  proxy_set_header X-Forwarded-For $remote_addr;
+ #
  }
+ #
 }
 #
 #
 then we create a link
+#
 sudo ln -s /etc/nginx/sites-available/grafana /etc/nginx/sites-enabled/
 #
 so we delete default in sites-enabled:
