@@ -98,7 +98,7 @@ Here is the link for the Step 3: https://youtu.be/vPZWJWIKPw4
 
 # 📋 *Basic Configuration* 📋
 #
-A virtual Machine in Linux is essential, for this purpose we used Azure.
+__A virtual Machine in Linux is essential, for this purpose we used Azure.__
 #
 You may want to use it, for that it is required to open the next ports:
 #
