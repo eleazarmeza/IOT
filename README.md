@@ -141,9 +141,13 @@ The file should look like this to allow anonymous connections:
 #
 #
 allow_anonymous true
+#
 pid_file /var/run/mosquitto.pid
+#
 persistence true
+#
 persistence_location /var/lib/mosquitto/ log_dest file /var/log/mosquitto/mosquitto.log log_dest stdout
+#
 include_dir /etc/mosquitto/conf.d
 #
 #
